@@ -1,5 +1,6 @@
 ---
 title: Projects
+description: Projects granted by EU
 nav:
   order: 2
   tooltip: Software, datasets, and more
