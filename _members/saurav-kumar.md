@@ -1,13 +1,12 @@
 ---
-name: Jane Smith
+name: saurav kumar
 image: images/photo.jpg
-role: pi
+role: Lead programmer
 aliases:
-  - J. Smith
-  - J Smith
+  - S. Kumar
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://github.com/Crispae
+  orcid: 0000-0003-0593-2598
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
