@@ -161,3 +161,35 @@
   image: https://www.mdpi.com/ijerph/ijerph-19-13471/article_deploy/html/images/ijerph-19-13471-g001-550.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.neuro.2022.09.010
+  title: Chlorpyrifos, permethrin and cyfluthrin effect on cell survival, permeability,
+    and tight junction in an in-vitro model of the human blood-brain barrier (BBB)
+  authors:
+  - Deepika Deepika
+  - Saurav Kumar
+  - Natalia Bravo
+  - Roser Esplugas
+  - Marco Capodiferro
+  - Raju Prasad Sharma
+  - Marta Schuhmacher
+  - Joan O. Grimalt
+  - Jordi Blanco
+  - Vikas Kumar
+  publisher: NeuroToxicology
+  date: '2022-12-01'
+  link: https://doi.org/gs4d3w
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0161813X22001553-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/ijerph18041598
+  title: 'ANN-Based Integrated Risk Ranking Approach: A Case Study of Contaminants
+    of Emerging Concern of Fish and Seafood in Europe'
+  authors:
+  - Vikas Kumar
+  - Saurav Kumar
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2021-02-08'
+  link: https://doi.org/gs4d3x
+  image: https://www.mdpi.com/ijerph/ijerph-18-01598/article_deploy/html/images/ijerph-18-01598-g001-550.jpg
+  plugin: sources.py
+  file: sources.yaml
