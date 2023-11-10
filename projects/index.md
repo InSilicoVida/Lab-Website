@@ -7,7 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Multiple projects are awarded to the group ranging from international to national level.
+**PARC: European Partnership for the Assessment of Risks from Chemicals**
+Financially co-funded by the EU “Horizon Europe” framework programme for the 2021-2027 period under the grant agreement No. 101057014.
 
 {% include tags.html tags="publication, resource, website" %}
 
