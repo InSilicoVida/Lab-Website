@@ -1,9 +1,8 @@
 ---
 title: Projects
-description: Projects granted by EU
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: International and national projects
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
