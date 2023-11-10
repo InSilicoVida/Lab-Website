@@ -17,7 +17,9 @@ MERLON is focused on EDCs (endocrine disruptor chemicals), and developing the ad
 *Past*
 
 **FlameRISK: Sources, exposure and health risk to legacy and emerging Flame retardants in Spanish indoor environments. An integrated health RISK approach**<br>
-
+The GENERAL OBJECTIVE of FlameRISK is to understand how and to what extent flame-retardants (FRs) are released from consumer products in Spanish indoor environments and to assess the human exposure and the associated health risks. The project will be focused not only on restricted FRs but also on the new emerging such as organophosphate flame retardants (OPFRs). In-silico tools (such as PBPK/PD and QSAR) and emerging non-animal techniques (such as in vitrotargeted strategies and system toxicology)
+will be used to understand the
+neurotoxicity mechanisms of FRs.
 
 
 
