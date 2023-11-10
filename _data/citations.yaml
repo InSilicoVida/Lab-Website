@@ -164,15 +164,17 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.3390/ijerph192013471
+  title: "Pharmacophore Modeling Using Machine Learning for Screening the Blood\u2013\
+    Brain Barrier Permeation of Xenobiotics"
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - Saurav Kumar
+  - Deepika Deepika
+  - Vikas Kumar
+  publisher: International Journal of Environmental Research and Public Health
+  date: '2022-10-18'
+  link: https://doi.org/gr24dx
+  image: https://www.mdpi.com/ijerph/ijerph-19-13471/article_deploy/html/images/ijerph-19-13471-g001-550.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.7554/eLife.32822
