@@ -1,6 +1,6 @@
 ---
-title: Example post 2
-author: jane-smith
+title: AOPwiki Explorer
+author: Saurav Kumar
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Tool for exploring AOPwiki using natural language.
