@@ -1,6 +1,6 @@
 ---
 name: Vikas Kumar
-image: images/photo.jpg
+image: images/members/vikas_kumar_2012082006.jpg
 role: Faculty and Research Scientist
 group: Group Leader
 links:
