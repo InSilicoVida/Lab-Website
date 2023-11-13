@@ -28,7 +28,7 @@ We are delighted to work with interdisciplinary background people around the wor
 
 {% include section.html %}
 
-## Alumini
+## Alumini<br>
 Past lab members who have moved on to other institutes, organizations or company. Our group thanks them for their contribution to science and improvement of society.
 {% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
@@ -39,4 +39,4 @@ Past lab members who have moved on to other institutes, organizations or company
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
-{% include section.html %}
+
