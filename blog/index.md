@@ -2,7 +2,7 @@
 title: Blog
 nav:
   order: 4
-  tooltip: scientific principle and in-silico hypothesis tested
+  tooltip: Scientific Principles and in-silico models
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
