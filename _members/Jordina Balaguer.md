@@ -1,6 +1,6 @@
 ---
 name: Jordina Balaguer
-image: images/members/deepika.jpg
+image: images/members/jordina_balaguer_2_619574743.jpg
 description: Predoctoral Research Fellow
 role: Systems Toxicology
 links:
