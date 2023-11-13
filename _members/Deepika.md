@@ -1,6 +1,6 @@
 ---
 name: Deepika
-image: images/photo.jpg
+image: images/members/deepika.jpg
 description: Toxicology modeling scientist
 role: Phamacokinetician/Systems Biologist Modeler
 links:
