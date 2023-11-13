@@ -13,4 +13,3 @@ Students interested to do doctorate with computational background can contact us
 Master students can join us for 3-6 month paid internship depending on their expertise.
 Undergraduate students are welcome to learn and contribute for risk assessment. They can contact us for further opportunities.
 
-{% include figure.html image="images/team/group-photo-3.jpg" width="100%" %}
