@@ -4,7 +4,7 @@ image:
 role: postdoc
 group: alum
 links:
-  orcid: 0000-0002-3012-744
+  orcid: 
   email: rpsharmasysbio@gmail.com
   google-scholar: 8ZcsC6sAAAAJ&hl
 ---
