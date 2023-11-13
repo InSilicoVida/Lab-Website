@@ -7,13 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-It includes published articles, posters and conference paper from insilico vida lab members.
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+Most publications from our lab focus on in-silico modeling for human health risk assessment with particular focus on toxicological aspect and literature mining related to toxicology. We have diverse group members with one section emphasized on developing physiologically based kinetic models, pharmacodynamic models and systems biology models for environmental chemicals and pharmaceutical drugs. Another section of our lab focus on text mining and developing tools like AOP-wiki explorer, AOP-bot etc. for extracting the useful infromation from vast litertaure. We also have expertise related to developing biological ontologies using ontology development kit.
 
 {% include section.html %}
 
