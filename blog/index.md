@@ -2,7 +2,7 @@
 title: Blog
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: scientific principle and in-silico hypothesis tested
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
