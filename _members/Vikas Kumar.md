@@ -10,4 +10,11 @@ links:
   email: vikas.kumar@urv.cat
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Dr Vikas Kumar is a member of the TECNATOX a specialized research center in the area of Technology Transfer in Toxicology, Food and Environmental Health. Dr. Kumar expetise lies in 
+Knowledge Engineering and Decision Modelling including rule based expert system, Artificial intelligence and hybrid system
+Integrated System Modelling
+Integrative Systems Toxicology and broad range of in silico tools for human health risk assessment
+Data Management and Analytical Solutions
+Specialized in tissue dosimetry (physiologically-based kinetic models), translational models (IVIVE, QIVIVE, inter-species scaling), QSAR, quantitative AOPs and Systems biology models
+
+ 
