@@ -16,9 +16,7 @@ Our group team consist of biologists, toxicologist, bioinformaticians, and compu
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are delighted to work with interdisciplinary background people around the world. Our team is always looking for bright researchers who like to work or collaborate with us as a team. For exploring the job or internship (online or offlie) opportunities at bachelor, master or researcher level, please feel free to contact us.
 
 {% include section.html %}
 
