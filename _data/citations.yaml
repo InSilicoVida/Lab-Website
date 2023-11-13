@@ -273,8 +273,9 @@
   date: '2020-10-26'
   link: https://doi.org/gs4d4c
   orcid: 0000-0002-9795-5967
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41540-020-00150-w/MediaObjects/41540_2020_150_Fig1_HTML.png?as=webp
 - id: doi:10.1016/j.fct.2020.111603
   title: 'Maternal exposure to mixtures of dienestrol, linuron and flutamide. Part
     II: Endocrine-related gene expression assessment on male offspring rat testes'
