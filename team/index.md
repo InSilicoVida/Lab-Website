@@ -28,6 +28,11 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
+
+##Alumini
+Past lab members who have moved on to other institutes, organizations or company. Our group thanks them for their contribution to science and improvement of society.
+
+
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
