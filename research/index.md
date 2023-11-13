@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-The research is about reasearch
+It includes published articles, posters and conference paper from insilico vida lab members.
 
 {% include section.html %}
 
