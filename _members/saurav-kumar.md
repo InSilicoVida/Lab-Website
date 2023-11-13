@@ -1,6 +1,6 @@
 ---
 name: saurav kumar
-image: images/photo.jpg
+image: images/members/saurav.jpg
 role: Lead programmer
 aliases:
   - S. Kumar
