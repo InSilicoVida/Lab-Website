@@ -1,6 +1,6 @@
 ---
 name: Oscar Sabuz Vidal
-image: images/members/deepika.jpg
+image: images/members/oscar_sabuz_vidal.jpg
 description: Predoctoral Research Fellow
 role: Predoctoral Research Fellow
 links:
