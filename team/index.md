@@ -18,6 +18,15 @@ Our group team consist of biologists, toxicologist, bioinformaticians, and compu
 
 We are delighted to work with interdisciplinary background people around the world. Our team is always looking for bright researchers who like to work or collaborate with us as a team. For exploring the job or internship (online or offlie) opportunities at bachelor, master or researcher level, please feel free to contact us.
 
+{%
+  include button.html
+  icon="fa-solid fa-handshake-angle"
+  text="Join the Team"
+  link="join"
+  style="button"
+%}
+
+
 {% include section.html %}
 
 {% capture content %}
