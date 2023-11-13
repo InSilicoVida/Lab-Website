@@ -741,8 +741,9 @@
   date: '2014-12-01'
   link: https://doi.org/f6rcxf
   orcid: 0000-0002-9795-5967
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0160412014002414-gr1.jpg
 - id: doi:10.3233/978-1-61499-452-7-77
   title: A hierarchical decision support system to evaluate the effects of climate
     change in water supply in a Mediterranean river basin
