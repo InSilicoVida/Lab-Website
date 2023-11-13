@@ -39,3 +39,4 @@ Past lab members who have moved on to other institutes, organizations or company
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+{% include section.html %}
