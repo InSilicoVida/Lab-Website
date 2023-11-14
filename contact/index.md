@@ -13,8 +13,8 @@ We are located at Department of Chemical Engineering, Universitat Rovira i Virgi
 
 {%
   include figure.html
-  image="images/contact/health-ai-logo.png"
-  link="https://medschool.cuanschutz.edu/"
+  image="images/tecnatox.jpeg"
+  link="https://www.tecnatox.cat/"
   width="400px"
 %}
 
