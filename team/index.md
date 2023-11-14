@@ -16,6 +16,11 @@ Our team is a dynamic mix of biologists, toxicologists, bioinformaticians, and c
 {% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
 
 {% include section.html background="images/background.jpg" dark=true %}
+{% include section.html %}
+
+#### Alumni
+
+
 
 We are delighted to work with interdisciplinary background people around the world. Our team is always looking for bright researchers who like to work or collaborate with us as a team. For exploring the job or internship (online or offlie) opportunities at bachelor, master or researcher level, please feel free to contact us.
 
