@@ -49,7 +49,7 @@ Our lab has received multiple national and international projects over years. Fe
 
 {%
   include feature.html
-  image="In-Silico_KeyVisual.jpg"
+  image="images/project.png"
   link="projects"
   title="Our Projects"
   flip=true
