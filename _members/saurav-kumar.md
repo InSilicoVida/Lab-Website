@@ -2,7 +2,7 @@
 name: saurav kumar
 image: images/members/saurav.jpg
 role: programmer
-description: Bioinformaticin/Lead Programmer
+description: Bioinformatician/Lead Programmer
 aliases:
   - S. Kumar
 links:
