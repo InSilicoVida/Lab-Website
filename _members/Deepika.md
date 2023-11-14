@@ -2,7 +2,7 @@
 name: Deepika
 image: images/members/deepika.jpg
 description: Toxicology modeling scientist
-role: Phamacokinetician/Systems Biologist Modeler
+role: postdoc
 links:
   email: deepika@iispv.cat
   twitter: Deepika0601
