@@ -34,7 +34,7 @@ Our work is mostly focused on risk assessment through New Approach Methodology (
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab has received multiple national and international projects over years. Feel free to have a look and write to us for collabroations.
 
 {%
   include button.html
