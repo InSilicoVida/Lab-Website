@@ -10,9 +10,9 @@ nav:
 Our group team consist of biologists, toxicologist, bioinformaticians, and computational scientists carrying expertise from multiple domains. 
 
 {% include section.html %}
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
