@@ -12,8 +12,7 @@ A dynamic laboratory with expertise in toxicology and computational modeling for
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+Our work is mostly focused on risk assessment through New Approach Methodology (NAM) by developing diverse in-silico tools (mechanistic models, AI supported tools) and integrating in-vitro data with in-silico for reducing the reliability on animal studies.
 {%
   include button.html
   link="research"
