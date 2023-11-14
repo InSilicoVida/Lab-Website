@@ -2,7 +2,7 @@
 name: Vikas Kumar
 image: images/members/vikas_kumar_2012082006.jpg
 description: Group Leader
-role: Faculty and Research Scientist
+role: pi
 links:
   github: InSilicoVida
   google scholar: https://scholar.google.com/citations?user=rhH7LGQAAAAJ
