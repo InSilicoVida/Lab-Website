@@ -19,6 +19,8 @@ Our team is a dynamic mix of biologists, toxicologists, bioinformaticians, and c
 {% include section.html %}
 
 #### Alumni
+{% include list.html data="members" component="portrait" filters="status: alumni" %}
+{% capture content %}
 
 
 
