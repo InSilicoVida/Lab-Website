@@ -2,7 +2,7 @@
 name: Jordina Balaguer
 image: images/members/jordina_balaguer_2_619574743.jpg
 description: Predoctoral Research Fellow
-role: Systems Toxicology
+role: phd
 links:
   email: jordina.balaguer@urv.cat
   orcid: 0000-0001-9001-207X
