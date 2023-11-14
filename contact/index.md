@@ -38,9 +38,9 @@ We are located at Department of Chemical Engineering, Universitat Rovira i Virgi
 %}
 
 {% capture content %}
-{% include figure.html image="images/contact/AHSB.jpg" %}
-{% include figure.html image="images/contact/cu-aerial.jpg" %}
-{% include figure.html image="images/contact/cu-photo.jpg" %}
+{% include figure.html image="images/urv.jpeg" %}
+{% include figure.html image="images/urv2.jpg" %}
+{% include figure.html image="images/urv3.jpg" %}
 {% endcapture %}
 
 {%
