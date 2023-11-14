@@ -1,6 +1,6 @@
 ---
 title: Ontology Development for Kinetic Modeling
-author: Deepika and Saurav Kumar
+author: Deepika, Saurav Kumar
 tags:
   - biology
   - toxicology
