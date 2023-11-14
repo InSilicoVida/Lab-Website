@@ -26,7 +26,7 @@ Our work is mostly focused on risk assessment through New Approach Methodology (
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/IVIVE%20PBPK.jpg"
   link="research"
   title="Our Research"
   text=text
