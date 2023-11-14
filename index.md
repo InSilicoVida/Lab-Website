@@ -59,7 +59,7 @@ Our lab has received multiple national and international projects over years. Fe
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Insilico vida team is a part of big group named Tecnatox. We consists of different experts ranging from in-vitro  to in-silico with focus on toxicological aspects.
 
 {%
   include button.html
@@ -74,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tecnatox%20group.jpg"
   link="team"
   title="Our Team"
   text=text
