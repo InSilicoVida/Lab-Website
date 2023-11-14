@@ -79,3 +79,4 @@ Insilico vida team is a part of big group named Tecnatox. We consists of differe
   title="Our Team"
   text=text
 %}
+
