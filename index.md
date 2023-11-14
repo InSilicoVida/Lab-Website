@@ -1,7 +1,7 @@
 ---
 ---
 
-# InSilicoVida's Website
+# InSilico Vida
 
 A dynamic laboratory with expertise in toxicology and computational modeling for human health risk assessment. We are a group of dedicated researchers with passion to decipher complexity of biological systems through development of cutting-edge techniques. From simulating molecular interactions to predicting biological pathways, we harness the power of multiple computational models and machine learning algorithms to extract the valuable knowledge from vast literature sources. 
 
