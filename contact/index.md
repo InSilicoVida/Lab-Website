@@ -27,8 +27,8 @@ We are located at Department of Chemical Engineering, Universitat Rovira i Virgi
 {%
   include button.html
   type="phone"
-  text="(215) 573-2991"
-  link="+1-215-573-2991"
+  text="(977) 55-85-76"
+  link="+34-977-55-85-76"
 %}
 {%
   include button.html
