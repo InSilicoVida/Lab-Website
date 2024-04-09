@@ -1,8 +1,8 @@
 ---
 name: Shubh Sharma
 image: 
-role: Predoctoral Research Fellow
-description: Bioinformatician
+description: Predoctoral Research Fellow
+role: phd
 aliases:
   - S. sharma
 links:
