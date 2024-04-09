@@ -1,6 +1,6 @@
 ---
 name: Shubh Sharma
-image: 
+image: images/members/shubh.jpg
 description: Predoctoral Research Fellow
 role: phd
 aliases:
