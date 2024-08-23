@@ -1,1 +1,1 @@
-Sitemap: /InSilicoVida/sitemap.xml
+Sitemap: /sitemap.xml
